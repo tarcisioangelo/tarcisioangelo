@@ -1,6 +1,6 @@
-### Olá, Sou Tarcísio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Olá, Sou Tarcísio Ângelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-Engenheiro de software e criador do portal Auto Clubes, 
+CEO, Software engineer na Auto Clubes.
 
 
 #### Siga-me
